@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/winup-zhou/winup-zhou/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/winup-zhou/winup-zhou/master/generated/languages.svg)
 
-A high school student and BVE Trainsim related developer.  
+An undergraduate student interested in signaling systems for railroads.  
 In the process of learning...
 
 #### Some of the things I've tried and used to implement my ideas:  
