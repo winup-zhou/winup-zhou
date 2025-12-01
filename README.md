@@ -6,7 +6,7 @@ An undergraduate student interested in signaling systems for railroads.
 In the process of learning...
 
 #### Some of the things I've tried and used to implement my ideas:  
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,vscode,visualstudio,arduino,ros,ubuntu,githubactions&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,vscode,visualstudio,arduino,ros,ubuntu,docker,githubactions&perline=12)](https://skillicons.dev)
 
 ----
 #### Contact me:  
