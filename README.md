@@ -1,6 +1,7 @@
 ### Hi! Nice to meet you!  
-![](https://raw.githubusercontent.com/winup-zhou/winup-zhou/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/winup-zhou/winup-zhou/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/winup-zhou/winup-zhou/refs/heads/generated/overview.svg)
+![](https://raw.githubusercontent.com/winup-zhou/winup-zhou/refs/heads/generated/languages.svg)
+
 
 An undergraduate student interested in signaling systems for railroads.  
 In the process of learning...
